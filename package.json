@@ -1,0 +1,16 @@
+{
+    "name": "socproc-client",
+    "description": "socproc-client",
+    "version": "0.0.0",
+    "author": {
+        "name": "serandives",
+        "email": "serandives@gmail.com"
+    },
+    "dependencies": {
+        "socket.io-client": "1.0.6"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/serandules/socproc-client.git"
+    }
+}
