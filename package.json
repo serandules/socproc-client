@@ -7,7 +7,7 @@
         "email": "serandives@gmail.com"
     },
     "dependencies": {
-        "socket.io-client": "1.0.6",
+        "socket.io-client": "1.1.0",
         "node-uuid": "*"
     },
     "repository": {
